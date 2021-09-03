@@ -10,7 +10,7 @@ navbar:
   right:
     - icon: fa-envelope fa-lg
       href: mailto:wu1548@purdue.edu
-    - icon: fa-linkedin-in fa-lg
+    - icon: fa-linkedin fa-lg
       href: https://www.linkedin.com/in/shuang-wu-6219aa132/
     - icon: fa-facebook-square fa-lg
       href: https://www.facebook.com/profile.php?id=100021640761476
