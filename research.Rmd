@@ -1,0 +1,15 @@
+---
+title: "Research"
+---
+
+### Federated Graph Neural Network
+
+This is about the data privacy in graph learning
+
+### Data Augmentation in Graph Neural Network
+
+This is about the data augmentation in graph learning
+
+### Residual Boostrap Exploration for Linear Contextual Bandit
+
+This is about the exploration in linear bandit
