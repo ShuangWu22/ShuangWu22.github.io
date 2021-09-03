@@ -8,7 +8,7 @@ navbar:
     - text: "Publications"
       href: papers.html
   right:
-    - icon: fa-paper-plane fa-lg
+    - icon: fa-envelope fa-lg
       href: mailto:wu1548@purdue.edu
     - icon: fa-linkedin-in fa-lg
       href: https://www.linkedin.com/in/shuang-wu-6219aa132/
