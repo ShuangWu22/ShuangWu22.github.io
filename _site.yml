@@ -6,7 +6,7 @@ navbar:
     - text: "Research"
       href: research.html
     - text: "Publications"
-      href: publications.html
+      href: papers.html
   right:
     - icon: fa-envelope fa-lg
       href: mailto:wu1548@purdue.edu
