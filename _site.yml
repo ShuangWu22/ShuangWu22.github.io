@@ -14,8 +14,8 @@ navbar:
       href: https://www.linkedin.com/in/shuang-wu-6219aa132/
     - icon: fa-facebook-square fa-lg
       href: https://www.facebook.com/profile.php?id=100021640761476
-    - icon: fa-instagram fa-lg
-      href: https://www.instagram.com/s.w_9522/?fbclid=IwAR3ebjW4UEQuL3DWVN5P7EeGaKee4gOawXhhLJaxa3kFzlI7VbLNSFf3L8Y
+#    - icon: fa-instagram fa-lg
+#      href: https://www.instagram.com/s.w_9522/?fbclid=IwAR3ebjW4UEQuL3DWVN5P7EeGaKee4gOawXhhLJaxa3kFzlI7VbLNSFf3L8Y
     - icon: fa-github fa-lg
       href: http://github.com/ShaungWu22/
 output:
