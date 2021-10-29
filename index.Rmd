@@ -10,7 +10,7 @@ title: "Shuang Wu"
 
 #### About
 
-I am currently a PhD in Statistics at [Purdue University](https://www.stat.purdue.edu/), advised by [Guang Cheng](https://www.stat.purdue.edu/~chengg/index.html) and [Pan Li](https://sites.google.com/view/panli-purdue/home). My research focuses on theoretical and practical machine learning and current research direction can be summarized as data augmentation and data privacy in graph learning model.
+I am currently a PhD in Statistics at [Purdue University](https://www.stat.purdue.edu/), advised by [Guang Cheng](https://www.stat.purdue.edu/~chengg/index.html). My general research interest is theoretical and practial machine learning and my current research focuses on Graph Machine Learning, Federated Learning and Bandit Algorithms.
 
 Before becoming a doctoral student, I received a BS in statistics from [Sun Yat-sen University](http://math.sysu.edu.cn/) in 2017 and a MS in Biostatistics from [Columbia University](http://www.mailman.columbia.edu/academic-departments/biostatistics) in 2019. 
 
