@@ -9,4 +9,4 @@ This is about the data privacy in graph machine learning
 
 ### Residual Boostrap Exploration for Bandit Algorithms
 
-This is about the exploration in linear bandit
+This is about the exploration for bandit algorithms
