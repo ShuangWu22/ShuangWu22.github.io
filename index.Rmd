@@ -3,13 +3,10 @@ title: "Shuang Wu"
 ---
 
 <link rel="stylesheet" href="styles.css" type="text/css">
+<link rel="stylesheet" href="academicicons/css/academicons.min.css"/>
 
 
-Ph.D in Statistics <br>
-University of Caligornia, Los Angeles
-
-
-<br><img src="images/SW2021.JPG" alt="shuang" style="width:100%; border:2px solid"><br>
+<img src="images/SW2021.JPG" alt="shuang" style="width:20%; border:2px solid; margin-right: 2px" align="right">
 
 
 #### About
@@ -22,14 +19,12 @@ My name is Shuang Wu. I am currently a PhD in Statistics at [University of Calig
 My general research interest is theory and practice of machine learning and my current research focuses on Trustworthy Artificial intelligence, Graph Machine Learning and Bandit Algorithms. See [research page](research.html) for more information.
 
 
-<br>
+#### Contacts
 
-#### Contact Information
-
-Shuang Wu\
-[Department of Statistics](http://statistics.ucla.edu/)  
-[University of Caligornia, Los Angeles](https://www.ucla.edu/)
-580 Portola Plaza, Boelter 9410\ 
+Shuang Wu \
+[Department of Statistics](http://statistics.ucla.edu/) \
+[University of Caligornia, Los Angeles](https://www.ucla.edu/) \
+580 Portola Plaza, Boelter 9410 \
 Los Angeles, CA 90095
 
 Email: [shuangwu222@ucla.edu](mailto: shuangwu222@ucla.edu)  
