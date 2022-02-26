@@ -3,10 +3,20 @@ title: "Research"
 ---
 
 
-### Federated Graph Neural Network
+## Federated Learning for Graph Machine Learning
 
-This is about the data privacy in graph machine learning
+### Graph Federated Learning with Hidden Representation Sharing
 
-### Residual Boostrap Exploration for Bandit Algorithms
+Learning on Graphs (LoG) is widely used in multi-client systems where each client has insufficient local data and multiple clients have to share their data to learn a model of good quality. Think about recommending items to the people who have little historical data to learn from while sharing similar preferences with their friends in a social network. On the other hand, recently, Federated Learning (FL) has become a rapidly growing field due to its respect for the protection of data privacy: FL requires models in a multi-client system to be trained without cross-client data sharing. As for the potential data-sharing conflict between LoG and FL, how to benefit from both sides is a significant problem to look into. In this work, we formulate the Graph Federated Learning problem (GFL) that considers neighbors' data being used as the model input and propose an FL solution that only asks the sharing of hidden representations of the neighbors' data rather than the raw data to protect data privacy. The optimization with the encoder that extracts hidden representations becomes potentially hard due to the biased gradient estimation. We provide a practical gradient estimation method paired with a convergence analysis for non-convex objectives. As a case study, we evaluate our method of training graph neural network models for classification tasks. Our experiment shows a good match between our theory and the practice. 
 
-This is about the exploration for bandit algorithms
+
+## Exploration in Bandit Algorithms
+
+### Residual Boostrap Exploration for Stochastic Linear Bandits
+
+We propose a new bootstrap-based online algorithm for stochastic linear bandit problems. The key idea is to adopt residual bootstrap exploration, in which the agent estimates the next step reward by re-sampling the residuals of mean reward estimate. Our algorithm, residual bootstrap exploration for stochastic linear bandit (\texttt{LinReBoot}), estimates the linear reward from its re-sampling distribution and pulls the arm with the highest reward estimate. In particular, 
+we contribute a theoretical framework to demystify residual bootstrap-based exploration mechanisms in stochastic linear bandit problems. The key insight is that the strength of bootstrap exploration is based on collaborated optimism between the online-learned model and the re-sampling distribution of residuals. Such observation enables us to show that the proposed \texttt{LinReBoot} secure a high-probability $\Tilde{O}(d \sqrt{n})$ sub-linear regret under mild conditions. Our experiments support the easy generalizability of the \texttt{ReBoot} principle in the various formulations of linear bandit problems and show the significant computational efficiency of \texttt{LinReBoot}. 
+
+### Residual Boostrap Exploration for Multi-Armed Bandits
+
+In this paper, we propose a novel perturbationbased exploration method in bandit algorithms with bounded or unbounded rewards, called residual bootstrap exploration (\texttt{ReBoot}). The ReBoot enforces exploration by injecting datadriven randomness through a residual-based perturbation mechanism. This novel mechanism captures the underlying distributional properties of fitting errors, and more importantly boosts exploration to escape from suboptimal solutions (for small sample sizes) by inflating variance level in an unconventional way. In theory, with appropriate variance inflation level, \texttt{ReBoot} provably secures instance-dependent logarithmic regret in Gaussian multi-armed bandits. We evaluate the \texttt{ReBoot} in different synthetic multi-armed bandits problems and observe that the \texttt{ReBoot} performs better for unbounded rewards and more robustly than \texttt{Giro} and \texttt{PHE}, with comparable computational efficiency to the Thompson sampling method.

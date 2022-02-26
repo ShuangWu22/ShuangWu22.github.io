@@ -5,25 +5,33 @@ title: "Shuang Wu"
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
+Ph.D in Statistics <br>
+University of Caligornia, Los Angeles
 
+
+<br><img src="images/SW2021.JPG" alt="shuang" style="width:100%; border:2px solid"><br>
 
 
 #### About
 
-I am currently a PhD in Statistics at [Purdue University](https://www.stat.purdue.edu/), advised by [Guang Cheng](https://www.stat.purdue.edu/~chengg/index.html). My general research interest is theoretical and practial machine learning and my current research focuses on Graph Machine Learning, Federated Learning and Bandit Algorithms.
+My name is Shuang Wu. I am currently a PhD in Statistics at [University of Caligornia, Los Angeles](http://statistics.ucla.edu/) after spending two years on graduate studies at [Purdue University](https://www.stat.purdue.edu/). I am fortunate to be advised by [Prof.Guang Cheng](https://www.stat.purdue.edu/~chengg/index.html) and extremely happy to work with [Prof.Pan Li](https://sites.google.com/view/panli-purdue). My other collaborators include Yuantong Li, Chi-hua Wang and Mingxuan Zhang etc. Before becoming a doctoral student, I received a BS in statistics from [Sun Yat-sen University](http://math.sysu.edu.cn/) in 2017 and a MS in Biostatistics from [Columbia University](http://www.mailman.columbia.edu/academic-departments/biostatistics) in 2019. 
 
-Before becoming a doctoral student, I received a BS in statistics from [Sun Yat-sen University](http://math.sysu.edu.cn/) in 2017 and a MS in Biostatistics from [Columbia University](http://www.mailman.columbia.edu/academic-departments/biostatistics) in 2019. 
+
+#### Research Interests
+
+My general research interest is theory and practice of machine learning and my current research focuses on Trustworthy Artificial intelligence, Graph Machine Learning and Bandit Algorithms. See [research page](research.html) for more information.
+
 
 <br>
 
 #### Contact Information
 
 Shuang Wu\
-[Department of Statistics](https://www.stat.purdue.edu/)  
-[College of Science](https://www.purdue.edu/science/?_ga=2.37466720.1753261897.1630643281-1706465151.1595397884)  
-150 N University St, MATH 501\
-West Lafayette, IN 47906
+[Department of Statistics](http://statistics.ucla.edu/)  
+[University of Caligornia, Los Angeles](https://www.ucla.edu/)
+580 Portola Plaza, Boelter 9410\ 
+Los Angeles, CA 90095
 
-Email: [wu1548@purdue.edu](mailto: wu1548@purdue.edu)  
+Email: [shuangwu222@ucla.edu](mailto: shuangwu222@ucla.edu)  
 Phone: 626-420-3684
 
